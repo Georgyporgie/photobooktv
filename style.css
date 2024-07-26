@@ -1,10 +1,7 @@
+body  {
 
-body  {  background-color: cornsilk;
-
+background-color: cornsilk;
 }
-
-
-
 
 
 h2 {
@@ -18,16 +15,28 @@ h2 {
  border: 1px solid white;
  border-radius: 4px;
  width: 30%;
- padding: 10px;
+ padding: 10px; transform: rotate(90deg);
  margin: 10px;
-transform: rotate(90deg);
 }
 
 .container {
- display: flex;
- background: cornsilk;
- flex-direction: column;
- height: 500px; justify-content: flex-start;
+ 
+ 
+ 
+ height: 500px;
 }
+
+.imagee {
+ background: white;
+ border: 1px solid white;
+ border-radius: 4px;
+ width: 30%;transform: rotate(90deg);
+
+ padding: 10px;
+ display:block; margin: auto auto auto auto;
+}
+
+
+
 
 
