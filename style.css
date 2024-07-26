@@ -38,5 +38,12 @@ h2 {
 
 
 
+p
+{  
 
+ font-family: monospace;
+transform: rotate(90deg);
+
+
+} 
 
