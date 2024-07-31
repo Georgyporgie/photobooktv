@@ -36,7 +36,15 @@ h2 {
  display:block; margin: auto auto auto auto;
 }
 
+.imagee {
+ background: white;
+ border: 1px solid white;
+ border-radius: 4px;
+ width: 30%;transform: rotate(90deg);
 
+ padding: 10px;
+ display:block; margin: auto auto auto auto;
+}
 
 p
 {  
