@@ -26,11 +26,11 @@ h2 {
  height: 500px;
 }
 
-.imagee {
+.imageee {
  background: white;
  border: 1px solid white;
  border-radius: 4px;
- width: 30%;transform: rotate(90deg);
+ width: 40%;transform: rotate(90deg);
 
  padding: 10px;
  display:block; margin: auto auto auto auto;
