@@ -99,6 +99,6 @@ z-index: -200; text-align: center;
  border: 1px solid white;
  border-radius: 10px;
  width: 70%;
- padding: 10px; transform: rotate(90deg);
+ padding: 10px; 
  margin: 10px;
 }
