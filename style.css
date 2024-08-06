@@ -102,3 +102,9 @@ display:block; margin: auto auto auto auto;
  padding: 10px; 
  display:block; margin: auto auto auto auto;
 }
+
+
+
+
+.balk  {  border: solid 6px silver; background-color: silver; z-index: -400; border-radius: 50px;
+}
