@@ -119,3 +119,14 @@ display:block; margin: auto auto auto auto;
  padding: 10px;  margin: 10px;
  
 }
+
+
+.citroen {
+ background: white;
+
+ border-radius: 10px;
+ width: 70%;border: 1px solid white;
+
+ padding: 10px; 
+ display:block; margin: auto auto auto auto;
+}
