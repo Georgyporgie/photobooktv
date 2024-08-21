@@ -53,7 +53,7 @@ p
 {  
 
  font-family: monospace;
-
+font-size: 20px; color:black;
 } 
 
 .rechtop {
@@ -100,10 +100,12 @@ z-index: -200; text-align: center;
 display:block; margin: auto auto auto auto;
 }
 
-.joorrr {
+.ferrari {
+ background: white;
+transform: rotate(90deg);
+
  
- border-radius: 10px;
- width: 70%;
+ width: 40%;
  padding: 10px; z-index:200;
 
  display:block; margin: auto auto auto auto;
@@ -121,6 +123,7 @@ display:block; margin: auto auto auto auto;
  border: 1px solid white;
  border-radius: 4px;
  width: 33%;z-index:200;
+transform: rotate(90deg);
 
 
  padding: 10px;  margin: 10px;
