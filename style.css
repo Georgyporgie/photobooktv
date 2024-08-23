@@ -138,3 +138,25 @@ display:block; margin: auto auto auto auto;
 
  display:block; margin: auto auto auto auto;
 }
+
+
+
+
+.darkMode {
+background: black;
+color: white;
+}
+
+
+.licht {
+margin: 5px 5px;
+padding: 8px 8px 8px 8px;
+min-width: 80px;
+max-width: 120px;
+border-radius: 5px;
+font-weight: bold;
+border: 0px solid;
+outline: none;z-index: 200;
+background-color:black;
+color: silver;
+}
