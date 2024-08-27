@@ -160,3 +160,15 @@ outline: none;z-index: 200;
 background-color:black;
 color: silver;
 }
+
+
+
+.plaatje {
+ background: white;
+ border: 1px solid white;
+ border-radius: 4px;z-index:200;
+
+ width: 40%;
+ padding: 10px;
+ display:block; margin: auto auto auto auto;
+}
