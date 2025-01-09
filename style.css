@@ -63,7 +63,7 @@ font-size: 20px; color:black;
  border: 1px solid white;
  border-radius: 4px;
  width: 30%;z-index:-200;
-filter: brightness(110%) saturate(110%) contrast(110%) opacity(100%);
+filter: brightness(110%) saturate(106%) contrast(110%) opacity(100%);
 
  padding: 10px; 
  margin: 10px;
